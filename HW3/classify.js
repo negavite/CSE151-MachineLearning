@@ -9,7 +9,6 @@ const testingFile = 'hw3test.txt';
  * Classify.js
  *
  * Author: Daniel Kao
- * PID: A10546439
  *
  * In this problem, we will look at the task of classifying iris 
  * flowers into sub-species based on their features using ID3 

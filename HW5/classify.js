@@ -9,7 +9,6 @@ const testingFile = 'hw5test.txt';
  * Classify.js
  *
  * Author: Daniel Kao
- * PID: A10546439
  *
  * In this problem, we will look at classifying protein sequences 
  * according to whether they belong to a particular protein family or 

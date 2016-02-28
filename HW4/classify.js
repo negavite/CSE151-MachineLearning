@@ -11,7 +11,6 @@ const testingFileB = 'hw4btest.txt';
  * Classify.js
  *
  * Author: Daniel Kao
- * PID: A10546439
  *
  * In this problem, we look at the task of classifying images of digits 
  * again, but this time we will use perceptron instead of k-nearest 

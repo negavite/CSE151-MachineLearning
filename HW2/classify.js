@@ -14,7 +14,6 @@ const k = [1, 3, 5, 11, 16, 21];
  * Classify.js
  *
  * Author: Daniel Kao
- * PID: A10546439
  *
  * In this problem, we look at the task of classifying images of digits using 
  * k-nearest neighbor classification. Download the files hw2train.txt, 
